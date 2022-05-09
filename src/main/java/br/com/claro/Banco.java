@@ -1,4 +1,4 @@
-package br.com.claro;
+package avena;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
